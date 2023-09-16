@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    html, body {
+        @apply bg-dark-purple text-white font-openSans;
+    }
+
+    form.pas-form p.pas-optin-text {
+        @apply font-openSans;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        @apply font-mono;
+    }
+
+    form, input {
+        @apply font-sans;
+    }
+}

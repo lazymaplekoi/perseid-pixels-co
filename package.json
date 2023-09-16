@@ -1,0 +1,11 @@
+{
+  "name": "Perseid Pixels Co.",
+  "version": "1.0.0",
+  "description": "Perseid Pixels Co. website",
+  "keywords": [],
+  "author": "Mikayla Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
